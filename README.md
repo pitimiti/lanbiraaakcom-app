@@ -11,7 +11,7 @@ yarn
 yarn android
 ```
 
-## Install and run on ios
+## Run on ios
 ```
 yarn ios
 ```
